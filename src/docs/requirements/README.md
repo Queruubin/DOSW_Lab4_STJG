@@ -79,3 +79,11 @@ Posiblemente **Autenticación (RF-01)** vs **Depósitos (RF-04)**. Si un externo
 
 **d. ¿Existe algún requerimiento que no debería realizarse?**
 Los reportes (PDF/JSON) podrían posponerse para una segunda fase, ya que no son vitales para la operación básica de cuentas.
+
+**Imágenes casos de uso** 
+
+![alt-text](../uml/Caso0.png)
+![alt-text](../uml/Caso1.png)
+![alt-text](../uml/Caso2.png)
+![alt-text](../uml/Caso3.png)
+![alt-text](../uml/Caso4.png)
