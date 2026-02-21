@@ -1,4 +1,4 @@
-package lab4.main;
+package edu.dosw.lab;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
